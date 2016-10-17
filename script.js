@@ -6,6 +6,8 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
+drawPerson(person)
 
-
-//drawPerson(person)
+function drawPerson(person) {
+  person.name
+}
