@@ -6,10 +6,6 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
-var remote = {
-  color: "white",
-  height: "500px",
-  numerOfButtons: "400"
-}
+
 
 //drawPerson(person)
