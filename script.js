@@ -11,12 +11,9 @@ var y = 9
 console.log("ASdfasF")
 console.log("asdf")
 console.log("asdf")
-asdf
-asdf
-asdf
-asdf
-asdf
-asdfasdf
+console.log("asdf")
+console.log("asdf")
+
 
 function drawPerson(person) {
   person.name = "Ralph"
