@@ -5,13 +5,6 @@ var person = {
   favoriteColor: "blue",
   catchphrase: "Get pumped!"
 }
-console.log("asdfasDF")
-var u = 9
-console.log("sdf")
-console.log("asdfa")
-
-"hshshshshs" 
-console.log("asdf;laksdf;klasd
 
 drawPerson(person)
 
