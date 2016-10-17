@@ -8,6 +8,8 @@ var person = {
 
 drawPerson(person)
 
+asdfasdfsadfasdf
+
 function drawPerson(person) {
   person.name = "Ralph"
 }
