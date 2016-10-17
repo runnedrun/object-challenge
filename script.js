@@ -8,6 +8,7 @@ var person = {
 
 drawPerson(person)
 asdf
+asdf
 
 function drawPerson(person) {
   person.name = "Ralph"
