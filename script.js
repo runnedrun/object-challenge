@@ -5,6 +5,9 @@ var person = {
   favoriteColor: "blue",
   catchphrase: "Get pumped!"
 }
+console.log("asdfasDF")
+var u = 9
+conso
 
 drawPerson(person)
 
