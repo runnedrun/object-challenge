@@ -14,16 +14,8 @@ console.log("asdf")
 console.log("asdf")
 console.log("asdf")
 ssss
-sdf
-sdf
-asdf
-asdf
-sdfd
-asdf
-asdf
-sdf
-asdfasdf
-sdf
+s
+
 
 
 
