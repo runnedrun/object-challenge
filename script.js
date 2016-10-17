@@ -13,6 +13,9 @@ console.log("asdf")
 console.log("asdf")
 console.log("asdf")
 console.log("asdf")
+asdf
+asdf
+asdf
 
 
 function drawPerson(person) {
