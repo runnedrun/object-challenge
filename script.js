@@ -15,8 +15,11 @@ console.log("asdf")
 console.log("asdf")
 ssss
 s
+asdfasdf
+asdf
+asdf
 
-
+asdf
 
 
 function drawPerson(person) {
