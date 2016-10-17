@@ -16,6 +16,10 @@ sadf
 asdf
 sdaf
 sdf
+sadf
+asdf
+
+asdf
 
 function drawPerson(person) {
   person.name = "Ralph"
