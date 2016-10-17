@@ -6,6 +6,7 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
+
 drawPerson(person)
 
 function drawPerson(person) {
