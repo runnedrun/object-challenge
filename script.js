@@ -9,5 +9,5 @@ var person = {
 drawPerson(person)
 
 function drawPerson(person) {
-  person.name
+  person.name = "Ralph"
 }
