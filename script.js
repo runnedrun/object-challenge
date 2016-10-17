@@ -7,6 +7,12 @@ var person = {
 }
 
 drawPerson(person)
+console.log("asdf")
+console.log("asdf")console.log("asdf")
+console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")
+aslkdjfasdf
+ as
+ df asdflk jas;dlkf 
 
 function drawPerson(person) {
   person.name = "Ralph"
