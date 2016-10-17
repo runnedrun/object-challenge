@@ -7,11 +7,12 @@ var person = {
 }
 
 drawPerson(person)
-sadf
-as
-dfasdf
-asdfas
-df
+asdf
+asdf
+asdf
+asdf
+
+
 
 function drawPerson(person) {
   person.name = "Ralph"
