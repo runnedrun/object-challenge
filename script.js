@@ -7,11 +7,6 @@ var person = {
 }
 
 drawPerson(person)
-asdf
-asdf
-asdf
-asdf
-
 
 
 function drawPerson(person) {
