@@ -21,37 +21,7 @@ dsa
 fas
 dfasdfa
 sdf
-asdfasd
-ag
-asdfasdga
-asdgasd
-f
-adsfasd
-gas
-fsa
-f
-sdf
-asf
-sadf
-asf
-asgasgdasd
-fa
-sg
-asdg
-as
-gasd
-gads
-
-gas
-g
-asdg
-adg
-as
-dgasdgasgadsgkalskjkljasdkjlafkladsldaslkads
-g
 a
-a
-sdg
 
 drawPerson(person)
 
