@@ -7,23 +7,8 @@ var person = {
 }
 
 drawPerson(person)
-asdf
-asdf
-asdf
-sadf
-sadf
-sadf
-asdf
-sdaf
-sdf
-sadf
-asdf
+var y = 9
 
-asdf
-asdfasdfasdf
-asdfa
-asdf
-sadf
 
 function drawPerson(person) {
   person.name = "Ralph"
