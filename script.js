@@ -7,7 +7,8 @@ var person = {
 }
 console.log("asdfasDF")
 var u = 9
-conso
+console.log("sdf")
+console.log("asdfa")
 
 drawPerson(person)
 
