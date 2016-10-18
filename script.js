@@ -8,22 +8,6 @@ var person = {
 
 drawPerson(person)
 var y = 9
-console.log("ASdfasF")
-console.log("asdf")
-console.log("asdf")
-console.log("asdf")
-console.log("asdf")
-ssss
-s
-asdfasdf
-asdf
-asdf
-
-asdf
-asdf
-asdfasfasdf
-
-
 
 function drawPerson(person) {
   person.name = "Ralph"
