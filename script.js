@@ -20,6 +20,9 @@ asdf
 asdf
 
 asdf
+asdf
+asdfasfasdf
+
 
 
 function drawPerson(person) {
